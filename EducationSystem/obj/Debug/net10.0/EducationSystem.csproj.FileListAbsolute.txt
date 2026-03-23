@@ -1,0 +1,14 @@
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/bin/Debug/net10.0/EducationSystem
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/bin/Debug/net10.0/EducationSystem.deps.json
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/bin/Debug/net10.0/EducationSystem.runtimeconfig.json
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/bin/Debug/net10.0/EducationSystem.dll
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/bin/Debug/net10.0/EducationSystem.pdb
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/EducationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/EducationSystem.AssemblyInfoInputs.cache
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/EducationSystem.AssemblyInfo.cs
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/EducationSystem.csproj.CoreCompileInputs.cache
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/EducationSystem.dll
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/refint/EducationSystem.dll
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/EducationSystem.pdb
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/EducationSystem.genruntimeconfig.cache
+/Users/telmoespinoza/Development/C#/Solid/S2EducationSystem/EducationSystem/obj/Debug/net10.0/ref/EducationSystem.dll
