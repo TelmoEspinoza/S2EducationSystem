@@ -18,7 +18,7 @@ namespace SRPDemo
 
             Student isa = new() { Name = "Isabel" };
             isa.EnrollCourse("Database Systems");
-            isa.AssignGrade("Database Systems", 85);
+            isa.AssignGrade("Database Systems", 95);
 
             GPACalculator gpaCalc = new();
             TranscriptGenerator transcriptGen = new(gpaCalc);
